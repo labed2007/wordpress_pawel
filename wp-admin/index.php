@@ -5,7 +5,6 @@
  * @package WordPress
  * @subpackage Administration
  */
-
 /** Load WordPress Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
